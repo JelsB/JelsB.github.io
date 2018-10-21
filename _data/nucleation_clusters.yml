@@ -1,0 +1,15 @@
+- name: TiO<sub>2</sub>
+  monomer_link: /academia/monomer/TiO2_clusters.html
+  general_link: /academia/general/TiO2_clusters.html
+
+- name: Al<sub>2</sub>O<sub>2</sub>
+  monomer_link: /academia/monomer/Al2O3_clusters.html
+  general_link: /academia/general/Al2O3_clusters.html
+
+- name: MgO
+  monomer_link: /academia/monomer/MgO_clusters.html
+  general_link: /academia/general/MgO_clusters.html
+
+- name: SiO
+  monomer_link: /academia/monomer/SiO_clusters.html
+  general_link: /academia/general/SiO_clusters.html
